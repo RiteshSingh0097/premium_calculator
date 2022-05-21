@@ -1,1 +1,1 @@
-# premium_calculator
+# Car Insurance calculator using strategy design pattern
